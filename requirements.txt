@@ -126,7 +126,7 @@ pycparser==2.21
 pydantic==2.4.0
 pydantic_core==2.10.0
 pydub==0.25.1
-pyee==8.2.2
+pyee==9.0.4
 pyfacebook==0.3
 pygame==2.5.1
 PyGetWindow==0.0.9
